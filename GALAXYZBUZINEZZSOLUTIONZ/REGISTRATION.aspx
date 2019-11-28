@@ -18,7 +18,7 @@
     </header>
     <style type="text/css">
         .auto-style1 {
-            width: 255px;
+            width: 255px; 
         }
         .auto-style2 {
             width: 255px;
